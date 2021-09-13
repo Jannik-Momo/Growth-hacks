@@ -1,0 +1,21 @@
+! Hubspot-Filter
+app.hubspot.com###nav-primary-reports-branch
+app.hubspot.com###nav-primary-sequences
+app.hubspot.com###nav-primary-service-branch
+app.hubspot.com###nav-primary-marketing-branch
+app.hubspot.com##.marketplace-topNav
+||app.hubspot.com/trial-banner-ui/19940950$subdocument
+app.hubspot.com###hs-nav-before-container
+app.hubspot.com###placeholder-trial-banner
+app.hubspot.com###placeholder-trial-banner
+app.hubspot.com###nav-secondary-playbooks
+app.hubspot.com###nav-secondary-quotes
+app.hubspot.com###nav-secondary-forecasting
+app.hubspot.com###nav-secondary-deals
+app.hubspot.com###nav-secondary-targetAccounts
+app.hubspot.com###nav-primary-conversations-branch
+app.hubspot.com###nav-secondary-documents
+app.hubspot.com###nav-secondary-calls
+app.hubspot.com##button[data-selenium-test*="delete"]
+app.hubspot.com##div[data-selenium-test*="call-selectors-menu-popover"]
+app.hubspot.com###calling-widget-container
